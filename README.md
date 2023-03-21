@@ -2,6 +2,7 @@
 
 - 👨🏽‍💻  I'm a **passionate developer** searching to learn and grow everyday.
 - 🌱  I’m currently learning **Web Development and Java Script technologies**. 
+- 🔎  I am working in a scientific research.
 - 🎓  l am majoring in Information Systems at IFES.
 - 📫  How to reach me: **ludmiladias.inf@gmail.com**.
 - ⚡  Fun fact: **I am a MCU big fan**!
