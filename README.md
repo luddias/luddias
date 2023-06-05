@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻  I'm a **passionate developer** searching to learn and grow everyday.
 - 🌱  I’m currently learning **Neural Networks with Python**. 
-- 🔎  I am working in a scientific research and I'm a intern in Lume Robotics.
+- 🔎  I am working in a scientific research and I'm an intern in Lume Robotics.
 - 🎓  l am majoring in Information Systems at IFES.
 - 📫  How to reach me: **ludmiladias.inf@gmail.com**.
 - ⚡  Fun fact: **I am a MCU big fan**!
