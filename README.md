@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I am Ludmila! <img src="https://github.com/luddias/readmefiles/blob/36a754db25c3821e25b8e200c7b1f72c3727d9fa/original.gif" width="70"> </h1>
 
 - 👨🏽‍💻  I'm a **passionate developer** searching to learn and grow everyday.
-- 🌱  I’m currently learning **Web Development and Java Script technologies**. 
-- 🔎  I am working in a scientific research.
+- 🌱  I’m currently learning **Neural Networks with Python**. 
+- 🔎  I am working in a scientific research and I'm a intern in Lume Robotics.
 - 🎓  l am majoring in Information Systems at IFES.
 - 📫  How to reach me: **ludmiladias.inf@gmail.com**.
 - ⚡  Fun fact: **I am a MCU big fan**!
