@@ -31,5 +31,5 @@
 <a href="https://instagram.com/ludmdias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ludmdias" height="30" width="40" /></a>
 </p>
 
-<p align="center"><a href="https://youtu.be/Qc7_zRjH808">Music Recommendation 🎵 </a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=BpTrxXJ6pTg">Music Recommendation 🎵 </a></p>
 <h6 align="center">Made with ❤️ by @luddias </h6>
