@@ -1,27 +1,21 @@
-<div align='center'>
-  <div align='left' width="50">
-
-```python
-    
-    def introducing_me():
-      print("""
-      👨🏽‍💻  I'm a passionate developer searching to learn and grow everyday.
-      🌱  I’m currently learning Neural Networks with Python. 
-      🔎  I'm an intern in Lume Robotics and a scientific research volunteer.
-      🎓  l am majoring in Information Systems at IFES.
-      📫  How to reach me: ludmiladias.inf@gmail.com.
-      ⚡  Fun fact: I am a MCU big fan!
-      """)
-
-  ```
-      
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1;">
+    <pre><code>
+def introducing_me():
+    print("""
+    👨🏽‍💻 I'm a passionate developer searching to learn and grow everyday.
+    🌱 I’m currently learning Neural Networks with Python. 
+    🔎 I'm an intern at Lume Robotics and a scientific research volunteer.
+    🎓 I am majoring in Information Systems at IFES.
+    📫 How to reach me: ludmiladias.inf@gmail.com.
+    ⚡ Fun fact: I am a MCU big fan!
+    """)
+    </code></pre>
   </div>
-  <div align='right' width="350"}>
+  <div style="flex: 1;">
     <img src="https://media.tenor.com/8F5olxe4KrIAAAAC/studio-ghbili-flowers.gif" alt="flower-gif" width="350">
   </div>
 </div>
-
-
 
 - 👨🏽‍💻  I'm a **passionate developer** searching to learn and grow everyday.
 - 🌱  I’m currently learning **Neural Networks with Python**. 
