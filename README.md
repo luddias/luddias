@@ -9,7 +9,7 @@
   def introducing_me():
     print("""
     👨🏽‍💻 A passionate developer searching to learn and grow every day.
-    🌱 I’m currently learning Neural Networks with Python. 
+    🌱 I’m currently learning Deep Learning with Python. 
     🔎 Intern in Lume Robotics and a scientific research volunteer.
     🎓 I am majoring in Information Systems at IFES.
     📫 How to reach me: ludmiladias.inf@gmail.com.
