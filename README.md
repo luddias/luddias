@@ -12,7 +12,7 @@
     🌱 I’m currently learning Deep Learning with Python. 
     🔎 Intern in Lume Robotics and a scientific research volunteer.
     🎓 I am majoring in Information Systems at IFES.
-    📫 How to reach me: ludmiladias.inf@gmail.com.
+    📫 How to reach me: ludmiladias.dev@gmail.com.
     ⚡ Fun fact: I am a MCU big fan!
     """)
   
