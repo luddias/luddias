@@ -46,7 +46,7 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="pytorch" width="auto" height="40"/> 
   </a>
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/luddias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="luddias" height="30" /></a>
