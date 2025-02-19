@@ -8,12 +8,12 @@
   ``` python
   def introducing_me():
     print("""
-    👨🏽‍💻 A passionate developer searching to learn and grow every day.
-    🌱 I’m currently learning Deep Learning with Python. 
-    🔎 Intern in Lume Robotics and a scientific research volunteer.
-    🎓 I am majoring in Information Systems at IFES.
+    👨🏽‍💻 A passionate developer always eager to learn and grow.
+    🌱 Currently learning 3D Object Detection using Deep Learning.
+    🔎 Systems Analyst at Lume Robotics and research volunteer at IFES.
+    🎓 Bachelor's degree in Information Systems from IFES.
     📫 How to reach me: ludmiladias.dev@gmail.com.
-    ⚡ Fun fact: I am a MCU big fan!
+    ⚡ Fun fact: I'm a dog lover!
     """)
   
 ```
