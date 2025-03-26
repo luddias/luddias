@@ -8,7 +8,7 @@
   ``` python
   def introducing_me():
     print("""
-    👨🏽‍💻 A passionate developer always eager to learn and grow.
+    👨🏽‍💻 A passionate developer learning and growing.
     🌱 Currently learning 3D Object Detection using Deep Learning.
     🔎 Systems Analyst at Lume Robotics and research volunteer at IFES.
     🎓 Bachelor's degree in Information Systems from IFES.
