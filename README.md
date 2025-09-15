@@ -10,7 +10,7 @@
     print("""
     👨🏽‍💻 A passionate developer learning and growing.
     🌱 Currently learning 3D Object Detection using Deep Learning.
-    🔎 Systems Analyst at Lume Robotics and research volunteer at IFES.
+    🔎 Trainee Data Scientist at FIT and Data Science MBA student at USP/ESALQ .
     🎓 Bachelor's degree in Information Systems from IFES.
     📫 How to reach me: ludmiladias.dev@gmail.com.
     ⚡ Fun fact: I'm a dog lover!
